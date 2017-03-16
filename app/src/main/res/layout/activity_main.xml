@@ -16,12 +16,14 @@
             android:layout_height="wrap_content">
 
             <EditText
+                android:inputType="numberDecimal"
                 android:id="@+id/etNum1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:hint="Number 1" />
 
             <EditText
+                android:inputType="numberDecimal"
                 android:id="@+id/etNum2"
                 android:hint="Number 2"
                 android:layout_width="match_parent"
