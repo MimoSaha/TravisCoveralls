@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setContentView(R.layout.activity_main);
         final ActivityMainBinding binding = DataBindingUtil.setContentView(this,R.layout.activity_main);
 
         final Calculator calculator = new Calculator();
