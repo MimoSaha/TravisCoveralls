@@ -3,3 +3,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/dekzitfz/TravisCoveralls/badge.svg?branch=master)](https://coveralls.io/github/dekzitfz/TravisCoveralls?branch=master)
 
 example usage of travis CI + Coveralls.io
+
+Thanks.
